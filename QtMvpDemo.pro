@@ -25,7 +25,6 @@ HEADERS += \
     maincontract.h \
     mainpresenter.h \
     mainwindow.h \
-    aa.h
 
 FORMS += \
     mainwindow.ui
